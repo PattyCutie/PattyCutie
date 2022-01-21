@@ -4,7 +4,7 @@
 - Looking for joining the real life project and long life learning in IT and full stack cloud and DevOps developer.
 - 🌱 I’m currently learning on coursera and freecodecamp.
 - 💞️ I’m looking for an entry level job and collaborate on everyone to gain more experience.
-- 📫 How to reach me add me on Instagram @pattyintherooftop
+- 📫 Reach me out on Instagram @pattyindev
 - Note : Hands-on Lab is the assignment projects that I have learned, feel free to check it out :)
 
 <!---
