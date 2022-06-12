@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Patpicha or @PattyCutie
-- 👀 I’m interested in full stack Cloud developement.
-- New to the field - entry level in IT and web Development.
-- Looking for joining the real life project and long life learning in IT and full stack cloud and DevOps developer.
-- 🌱 I’m currently learning on coursera and freecodecamp.
+- 👀 I’m interested in full stack web & Cloud developement.
+- Looking for oppotunity as following tech stacks
+  -HTML CSS JS
+  -REACT.JS
+  -NODE.JS
+  -PYTHON
+  -DJANGO
+  -FIREBASE
+  -IBM CLOUD
+- 🌱 I’m still learning
 - 💞️ I’m looking for an entry level job and collaborate on everyone to gain more experience.
 - 📫 Reach me out on Instagram @pattyindev
 - Note : Hands-on Lab is the assignment projects that I have learned, feel free to check it out :)
