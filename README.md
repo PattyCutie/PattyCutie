@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patpicha or @PattyCutie
-- 👀 I’m interested in full stack web & Cloud developement.
+- 👀 I’m interested in full stack web & moblie & Cloud developement.
 - Looking for oppotunity as following tech stacks
   -HTML CSS JS
   -REACT.JS
