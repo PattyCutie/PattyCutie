@@ -11,7 +11,7 @@
   - DJANGO
   - FIREBASE
   - IBM CLOUD
-  - mongoBD
+  - mongoDB
   - API's
   - Serverless and Microservices principle
   - Deployment and Automation CI/CD pipeline
