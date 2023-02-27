@@ -40,7 +40,8 @@ More:
   - Self taught
   - The Best googling  
  
- #################################################################################################
+ ########################################################
+ 
  🌱 Never give up and never stop learning
  📫 Reach me out on Instagram @pattyindev
  
