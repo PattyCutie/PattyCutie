@@ -37,8 +37,11 @@ More:
   - Time management
   - Work Creative 
   - Ability multitasks
-  - Problem sovler
+  - Problem solver
+  - keen eyes to detail
+  - strategy key lead the right plan
   - Self taught
+  - consistency is the key to success
   - The Best googling  
  
  ########################################################
