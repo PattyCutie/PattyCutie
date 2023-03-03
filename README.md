@@ -17,10 +17,11 @@ Full stack
   - Flask
   - DJANGO
   
-Cloud Providers
+Cloud & Server Providers
   - IBM CLOUD services
-  - Google Cloud API's
-  - Vercel
+  - Google Cloud services
+  - Vercel 
+  - Hostinger
   - 
 Backend Services
   - FIREBASE
