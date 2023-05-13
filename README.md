@@ -6,43 +6,49 @@
 Frontend
   - HTML CSS JavaScript
   - REACT.js
+  - with TypeScript
   
-Backend
+Backend:
   - NODE.js
   - Express.js
-
-Full stack
-  - React framework Next.js
   - PYTHON
   - Flask
+
+Full stack:
+  - Next.js
   - DJANGO
-  
-Cloud & Server Providers
+ 
+Cloud & Server Providers:
   - IBM CLOUD services
   - Google Cloud services
   - Vercel 
   - Hostinger
-  - 
-Backend Services
+  - Firebase
+
+Backend & Database Services:
   - FIREBASE
   - mongoDB
-  - sanity
+  - Prisma
+  - sanity studio v3
   - Stepzen
   - GrapghQL  
-  - API's
+  - Web APIs
   
-More:
+Basic concepts:
   - Serverless and Microservices principle
   - Deployment and Automation CI/CD pipeline
+  - SEO for web development
+  - Basic of UX & UI
+
+Last but not least : 
   - Time management
-  - Work Creative 
   - Ability multitasks
   - Problem solver
-  - keen eyes to detail
-  - strategy key lead the right plan
-  - Self taught
-  - consistency is the key to success
-  - The Best googling  
+  - Keen eyes to detail
+  - Self taught 
+  - Creative and the Best googling
+  - Strategy key lead the right plan
+  - Consistency is the key to success  
  
  ########################################################
  
