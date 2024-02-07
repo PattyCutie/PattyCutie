@@ -11,6 +11,7 @@ Frontend
 Backend:
   - NODE.js
   - Express.js
+  - NestJs
   - PYTHON
   - Flask
 
@@ -27,19 +28,23 @@ Cloud & Server Providers:
 
 Backend & Database Services:
   - FIREBASE
-  - mongoDB
+  - MongoDB
   - Prisma
-  - sanity studio v3
+  - Sanity studio v3
   - Stepzen
-  - GrapghQL  
+  - GrapghQL
+  - Supabase  
   - Web APIs
+  - Postgresql-PgAdmin4
   
 Basic concepts:
+  - Business Requirment and analysis
+  - Basic of UX & UI
   - Serverless and Microservices principle
   - Deployment and Automation CI/CD pipeline
   - SEO for web development
-  - Basic of UX & UI
-
+  - Marketing and Customer Relation Strategy
+  
 Last but not least : 
   - Time management
   - Ability multitasks
