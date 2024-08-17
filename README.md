@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patpicha or @PattyCutie is my username
+- 👋 Hi, I’m Patpicha or Patty
 - 👀 I’m interested in full stack web Application & Cloud developement.
 
 - 💞️ Looking for oppotunity as following tech stacks
@@ -37,7 +37,7 @@ Backend & Database Services:
   - Web APIs
   - Postgresql-PgAdmin4
   
-Basic concepts:
+Busines for web development:
   - Business Requirment and analysis
   - Basic of UX & UI
   - Serverless and Microservices principle
